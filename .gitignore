@@ -1,1 +1,5 @@
+# Emacs temporary files
 .emacs.d/auto-save-list
+[#]*[#]
+*~
+.\#*
